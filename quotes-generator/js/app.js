@@ -3,8 +3,8 @@
   const quotes = [
     {
       quote:
-        "Life is too short and sweet to be spent by cribbing and complaining about things. Here are some random quotes about the most wonderful gift that we've got",
-      author: " Life"
+        "The real world is a jungle, not a playground, and nobody gets anything they dont deserve!",
+      author: "Kiryu, Yakuza 0"
     },
     {
       quote:
@@ -29,7 +29,47 @@
       quote:
         "A critic is someone who never actually goes to the battle, yet who afterwards comes out shooting the wounded.",
       author: " Tyne Daly"
-    }
+    },
+    {
+      quote:
+        "A true measure of a man is not where he stands in the moments of comfort and conveniance, but where he stands at times of challenge and controversy",
+      author: "Martin Luther King JR"
+    },
+    {
+      quote:
+        "Show respect to people who don't even deserve it; not as a reflection of their character, but as a reflection of yours.",
+      author: "Dave Willis"
+    },
+    {
+      quote:
+        "Life will always have ups and downs. And if we don't have the bad parts, we'll never appreciate the good ones. I Seeing life through rose-coloured glasses is a choice, not some product you can buy.",
+      author: "Kiryu, Yakuza 0"
+    },
+    {
+      quote:
+        "We all make choices, but in the end, our choices make us. A man chooses, a slve obeys.",
+      author: "Andrew Ryan, Bioshock"
+    },
+    {
+      quote:
+        "Stand in the ashes of a trillion dead souls and ask the ghosts id honor matters. The silence is your answer.",
+      author: "Javik, Mass Effect"
+    },
+    {
+      quote:
+        "Some trees flourish, others die. Some cattle grow strong, others are taken by wolves. Some men are born rich enough and dumb enough to enjoy their lives. Ain't nothing fair.",
+      author: "John Marston, Red Dead Redemption"
+    },
+    {
+      quote:
+        "You can't break a man the way you break a dog, or a horse. The harder you beat the man, the taller he stands.",
+      author: "The Jackal, Far Cry 2"
+    },
+    {
+      quote:
+        "",
+      author: ""
+    },
   ];
 
 
